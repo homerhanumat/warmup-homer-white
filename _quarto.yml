@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Homer White's Website Warmup"
+  site-path: "/warmup-homer-white/"
   navbar:
     left:
       - href: index.qmd
